@@ -1,4 +1,3 @@
-from urllib.parse import MAX_CACHE_SIZE
 from django.db import models
 
 # Create your models here.
